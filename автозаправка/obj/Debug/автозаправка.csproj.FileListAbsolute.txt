@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\автозаправка\автозаправка\bin\Debug\автозаправка.exe.config
+C:\Users\User\source\repos\автозаправка\автозаправка\bin\Debug\автозаправка.exe
+C:\Users\User\source\repos\автозаправка\автозаправка\bin\Debug\автозаправка.pdb
+C:\Users\User\source\repos\автозаправка\автозаправка\obj\Debug\автозаправка.csprojAssemblyReference.cache
+C:\Users\User\source\repos\автозаправка\автозаправка\obj\Debug\автозаправка.Form1.resources
+C:\Users\User\source\repos\автозаправка\автозаправка\obj\Debug\автозаправка.Properties.Resources.resources
+C:\Users\User\source\repos\автозаправка\автозаправка\obj\Debug\автозаправка.csproj.GenerateResource.cache
+C:\Users\User\source\repos\автозаправка\автозаправка\obj\Debug\автозаправка.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\автозаправка\автозаправка\obj\Debug\автозаправка.exe
+C:\Users\User\source\repos\автозаправка\автозаправка\obj\Debug\автозаправка.pdb
