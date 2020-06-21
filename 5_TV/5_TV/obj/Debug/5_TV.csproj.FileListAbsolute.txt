@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\5_TV\5_TV\obj\Debug\5_TV.csprojAssemblyReference.cache
+C:\Users\User\source\repos\5_TV\5_TV\obj\Debug\_5_TV.Form1.resources
+C:\Users\User\source\repos\5_TV\5_TV\obj\Debug\_5_TV.Properties.Resources.resources
+C:\Users\User\source\repos\5_TV\5_TV\obj\Debug\5_TV.csproj.GenerateResource.cache
+C:\Users\User\source\repos\5_TV\5_TV\obj\Debug\5_TV.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\5_TV\5_TV\bin\Debug\5_TV.exe.config
+C:\Users\User\source\repos\5_TV\5_TV\bin\Debug\5_TV.exe
+C:\Users\User\source\repos\5_TV\5_TV\bin\Debug\5_TV.pdb
+C:\Users\User\source\repos\5_TV\5_TV\obj\Debug\5_TV.exe
+C:\Users\User\source\repos\5_TV\5_TV\obj\Debug\5_TV.pdb

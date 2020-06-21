@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\6_zhal\6_zhal\bin\Debug\6_zhal.exe.config
+C:\Users\User\source\repos\6_zhal\6_zhal\bin\Debug\6_zhal.exe
+C:\Users\User\source\repos\6_zhal\6_zhal\bin\Debug\6_zhal.pdb
+C:\Users\User\source\repos\6_zhal\6_zhal\obj\Debug\6_zhal.csprojAssemblyReference.cache
+C:\Users\User\source\repos\6_zhal\6_zhal\obj\Debug\_6_zhal.Form1.resources
+C:\Users\User\source\repos\6_zhal\6_zhal\obj\Debug\_6_zhal.Properties.Resources.resources
+C:\Users\User\source\repos\6_zhal\6_zhal\obj\Debug\6_zhal.csproj.GenerateResource.cache
+C:\Users\User\source\repos\6_zhal\6_zhal\obj\Debug\6_zhal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\6_zhal\6_zhal\obj\Debug\6_zhal.exe
+C:\Users\User\source\repos\6_zhal\6_zhal\obj\Debug\6_zhal.pdb

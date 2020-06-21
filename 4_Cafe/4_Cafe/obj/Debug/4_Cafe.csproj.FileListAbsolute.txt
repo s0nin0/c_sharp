@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\4_Cafe\4_Cafe\bin\Debug\4_Cafe.exe.config
+C:\Users\User\source\repos\4_Cafe\4_Cafe\bin\Debug\4_Cafe.exe
+C:\Users\User\source\repos\4_Cafe\4_Cafe\bin\Debug\4_Cafe.pdb
+C:\Users\User\source\repos\4_Cafe\4_Cafe\obj\Debug\4_Cafe.csprojAssemblyReference.cache
+C:\Users\User\source\repos\4_Cafe\4_Cafe\obj\Debug\_4_Cafe.Form1.resources
+C:\Users\User\source\repos\4_Cafe\4_Cafe\obj\Debug\_4_Cafe.Properties.Resources.resources
+C:\Users\User\source\repos\4_Cafe\4_Cafe\obj\Debug\4_Cafe.csproj.GenerateResource.cache
+C:\Users\User\source\repos\4_Cafe\4_Cafe\obj\Debug\4_Cafe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\4_Cafe\4_Cafe\obj\Debug\4_Cafe.exe
+C:\Users\User\source\repos\4_Cafe\4_Cafe\obj\Debug\4_Cafe.pdb
